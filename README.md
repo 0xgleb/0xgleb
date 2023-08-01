@@ -8,4 +8,4 @@ Building stuff. Buzzwords: EVM, Solidity, Rust, Haskell.
 
 ### ls ~/articles/
 - [Article: "Introduction to Algebraic Data Types"](https://0xgleb.dev/introduction-to-algebraic-data-types)
-- [Article: "MEV: Four Year In Review"](https://0xgleb.dev/mev-four-years-in-review)
+- [Article: "MEV: Four Years In Review"](https://0xgleb.dev/mev-four-years-in-review)
